@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 
 **Muhaziz28/Muhaziz28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,20 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
+
+### Hi there 👋, Muhammad Haikal Aziz
+#### Development
+I'm Haikal from Indonesia. I really enjoy learning languages and javascript framework like React,  or php framework like Laravel and Codeigniter.
+
+Skills: REACT / JS / PHP / CODEIGNITER / LARAVEL
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhaziz28)](https://github.com/anuraghazra/github-readme-stats)
 
