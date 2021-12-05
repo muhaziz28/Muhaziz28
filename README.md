@@ -20,7 +20,6 @@ I'm Haikal from Indonesia. I really enjoy learning languages and javascript fram
 
 Skills: REACT / JS / PHP / CODEIGNITER / LARAVEL
 
-- 🔭 I’m currently working on this page. 
 
 
 
