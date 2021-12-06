@@ -20,7 +20,7 @@ I'm Haikal from Indonesia. I really enjoy learning languages and javascript fram
 
 Skills: REACT / JS / PHP / CODEIGNITER / LARAVEL
 
-
+- 📫 How to reach me: muhammadhaikalaziz28@gmail.com
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhaziz28&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhaziz28&show_icons=true&theme=cobalt)
