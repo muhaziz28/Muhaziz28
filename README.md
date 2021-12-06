@@ -21,7 +21,20 @@ I'm Haikal from Indonesia. I really enjoy learning languages and javascript fram
 Skills: REACT / JS / PHP / CODEIGNITER / LARAVEL
 
 
-[fork my repository](https://github.com/user/repository/fork)
+<div class="actions button-container">
+    <a href="#" class="button primary">Compose new</a>
+
+    <div class="button-group">
+        <a href="#" class="button primary">Archive</a>
+        <a href="#" class="button">Report spam</a>
+        <a href="#" class="button danger">Delete</a>
+    </div>
+
+    <div class="button-group minor-group">
+        <a href="#" class="button">Move to</a>
+        <a href="#" class="button">Labels</a>
+    </div>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhaziz28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhaziz28&show_icons=true&theme=cobalt)
