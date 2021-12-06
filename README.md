@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-### Hi there 👋, Muhammad Haikal Aziz
+### Hi there 👋, I'm Muhammad Haikal Aziz
 #### Development
 I'm Haikal from Indonesia. I really enjoy learning languages and javascript framework like React,  or php framework like Laravel and Codeigniter.
 
