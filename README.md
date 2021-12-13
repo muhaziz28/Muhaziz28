@@ -10,8 +10,10 @@ I'm Haikal from Indonesia. I'm Software Engineer who specialized in *backend*. V
 ## 💻 Experiences
 - GIT
 - Flutter
+- Express JS
+- React 
+- Node JS
 - PHP
-- Laravel
 - Codeigniter
 - Firebase, MySQL
 
