@@ -15,7 +15,7 @@ I'm Haikal from Indonesia. I'm Software Engineer who specialized in *backend*. V
 - Node JS
 - PHP
 - Codeigniter
-- Firebase, MySQL
+- MySQL
 
 ### 🚀 How to reach me:
 - Email: [muhammadhaikalaziz28@gmail.com](muhammadhaikalaziz28@gmail.com)
