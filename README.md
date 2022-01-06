@@ -5,16 +5,11 @@
 
 ### Hi there 👋, I'm Muhammad Haikal Aziz
 
-I'm Haikal from Indonesia. I'm Software Engineer who specialized in *backend*. Very interested in modern *mobile and web technologies* using Flutter and Laravel.
-
 ## 💻 Experiences
 - GIT
 - Flutter
-- Express JS
-- React 
-- Node JS
-- PHP
-- Codeigniter
+- Firebase
+- Laravel
 - MySQL
 
 ### 🚀 How to reach me:
@@ -23,7 +18,7 @@ I'm Haikal from Indonesia. I'm Software Engineer who specialized in *backend*. V
 
 ---
 
-© 2021 — Muhammad Haikal Aziz
+© 2022 — Muhammad Haikal Aziz
 
 
 
