@@ -9,6 +9,7 @@
 - GIT
 - Flutter
 - Firebase
+- CodeIgniter
 - Laravel
 - MySQL
 
