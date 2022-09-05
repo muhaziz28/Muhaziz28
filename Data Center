@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T07:56:00.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="facdrlFDgYvr5vsoEija" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-05T08:01:53.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="fJu1o0AkOydebkttEASv" version="20.2.8" type="github">
   <diagram id="sZD6E56Cq06HNNoDz101" name="Page-1">
     <mxGraphModel dx="3122" dy="1886" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -882,7 +882,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G0bf0PNq2XpRxutMn61X-14" value="jenis_bantal" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#60A917;" parent="1" vertex="1">
-          <mxGeometry x="200" y="-720" width="180" height="120" as="geometry" />
+          <mxGeometry x="-14" y="-720" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="G0bf0PNq2XpRxutMn61X-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="G0bf0PNq2XpRxutMn61X-14" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
