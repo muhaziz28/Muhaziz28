@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T02:10:32.869Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="oiaOMpNbVmCt4bYtqRGd" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-27T08:07:20.585Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="CgXiVmTOZzFbFN2yGLzm" version="20.3.6" type="github">
   <diagram id="sZD6E56Cq06HNNoDz101" name="Page-1">
-    <mxGraphModel dx="1669" dy="2672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2608" dy="3217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -514,7 +514,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Zk_AugAOuBabDBUX4jK-106" value="penempatan" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="4Zk_AugAOuBabDBUX4jK-104" vertex="1">
+        <mxCell id="4Zk_AugAOuBabDBUX4jK-106" value="lokasi_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="4Zk_AugAOuBabDBUX4jK-104" vertex="1">
           <mxGeometry x="30" width="170" height="30" as="geometry">
             <mxRectangle width="170" height="30" as="alternateBounds" />
           </mxGeometry>
