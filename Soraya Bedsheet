@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T16:46:44.298Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="hTvHuwb8uV1ZnZg8Ck2y" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-02T16:47:36.435Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="3fUCilE4Mz9GVJiHT1Fy" version="20.5.1" type="github">
   <diagram id="9mR4tNraY7AC7CCQV1XC" name="Halaman-1">
     <mxGraphModel dx="1510" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -195,7 +195,7 @@
           <mxGeometry x="-100" y="150" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u8gfOYMONKYv9BnDvrMI-46" value="Role untuk membedakan level dari user.&lt;br&gt;1. CEO&lt;br&gt;2. Karyawan&lt;br&gt;3. Mitra&lt;br&gt;4. Distributor (optional)" style="shape=note;size=15;align=left;spacingLeft=10;html=1;whiteSpace=wrap;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="630" y="320" width="160" height="110" as="geometry" />
+          <mxGeometry x="640" y="320" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="u8gfOYMONKYv9BnDvrMI-47" value="" style="edgeStyle=none;endArrow=none;exitX=0;exitY=0.5;dashed=1;html=1;rounded=0;strokeWidth=2;fontSize=12;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="u8gfOYMONKYv9BnDvrMI-46" parent="1" target="u8gfOYMONKYv9BnDvrMI-30">
           <mxGeometry x="1" relative="1" as="geometry">
