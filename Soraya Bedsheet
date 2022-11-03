@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T04:55:35.530Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="O8FQSf3UQUYu4qyfIegY" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-03T05:15:37.404Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="_I9w3lXP2z93AXfGShfi" version="20.5.1" type="github">
   <diagram id="9mR4tNraY7AC7CCQV1XC" name="Halaman-1">
-    <mxGraphModel dx="3086" dy="2712" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3230" dy="2801" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -712,7 +712,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u8gfOYMONKYv9BnDvrMI-149" value="location" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="750" width="180" height="210" as="geometry" />
+          <mxGeometry x="-160" y="751" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="u8gfOYMONKYv9BnDvrMI-150" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;fontSize=12;" parent="u8gfOYMONKYv9BnDvrMI-149" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
