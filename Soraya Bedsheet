@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T02:58:11.349Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="yM-52Yd2Cwn20SqSHiML" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-03T03:09:32.446Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="tLIt9G280SAjYJSoksQx" version="20.5.1" type="github">
   <diagram id="9mR4tNraY7AC7CCQV1XC" name="Halaman-1">
-    <mxGraphModel dx="3406" dy="2910" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3267" dy="2824" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1377,8 +1377,8 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g8wEzhpO2e9isdGQkF1A-204" value="&lt;h1&gt;Database Gudang&lt;/h1&gt;&lt;p&gt;Rancangan database gudang menggabungkan seluruh database gudang 1, 2, 3, dan 4.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1656" y="-1169" width="234" height="120" as="geometry" />
+        <mxCell id="g8wEzhpO2e9isdGQkF1A-204" value="&lt;h1&gt;Database Gudang&lt;/h1&gt;&lt;p&gt;Rancangan database gudang menggabungkan seluruh database gudang 1, 2, 3, dan 4.&lt;/p&gt;&lt;p&gt;Gudang 1, produk&lt;/p&gt;&lt;p&gt;Gudang 2, bantal&lt;/p&gt;&lt;p&gt;Gudang 3, kain&lt;/p&gt;&lt;p&gt;Gudang 4, aset pabrik&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1656" y="-1169" width="234" height="213" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
