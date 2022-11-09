@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T08:28:49.103Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="L8KXbE0cilWKqurb86R9" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-09T05:56:51.264Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1r-X8pIHcda-vRvKtWbt" version="20.5.3" type="github">
   <diagram id="9mR4tNraY7AC7CCQV1XC" name="Halaman-1">
-    <mxGraphModel dx="3267" dy="2824" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3267" dy="3015" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2194,8 +2194,14 @@
         <mxCell id="DFMcdZNKEBqG_rGcmDwj-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="558" y="501" width="22" height="25.88" as="geometry" />
         </mxCell>
-        <mxCell id="TfHTgPmswKj-qICjfCBS-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="TfHTgPmswKj-qICjfCBS-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-278" y="267.06" width="22" height="25.88" as="geometry" />
+        </mxCell>
+        <mxCell id="XSZPkiyR7rLwttSbX44M-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-302" y="447.12" width="22" height="25.88" as="geometry" />
+        </mxCell>
+        <mxCell id="XSZPkiyR7rLwttSbX44M-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-262" y="647" width="22" height="25.88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
