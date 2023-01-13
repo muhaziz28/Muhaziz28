@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Muhammad Haikal Aziz
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![PHP](https://img.shields.io/badge/PHP-Intermediate-lightorange)
+![PHP](https://img.shields.io/badge/PHP-Intermediate-informational)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-purple)
 ![Tailwind](https://img.shields.io/badge/Tailwind-Beginner-cyan)
 ![React](https://img.shields.io/badge/React-Beginner-blue)
