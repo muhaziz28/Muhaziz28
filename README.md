@@ -10,4 +10,4 @@
 -  Currently I work **FullStack Developer** at PT Soraya Berjaya Indonesia
 - 🌱 I’m currently learning **Dart**, **Flutter** and **Node JS**
 
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Muhaziz28's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Muhaziz28&show_icons=true&theme=radical)
