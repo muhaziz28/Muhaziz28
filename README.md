@@ -3,9 +3,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-informational)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-purple)
-![Tailwind](https://img.shields.io/badge/Tailwind-Beginner-cyan)
-![React](https://img.shields.io/badge/React-Beginner-blue)
 ![Laravel](https://img.shields.io/badge/Laravel-Intermediate-red)
+![Codeigniter](https://img.shields.io/badge/Codeigniter-Intermediate-orange)
 
 Junior Web Designer & Web Developer located in Indonesia, Creating design & programming contents in [Syaucademy](https://www.instagram.com/syaucademy/ "Syaucademy").
 
