@@ -7,7 +7,7 @@
 ![Dart](https://img.shields.io/badge/Dart-Intermediate-blue)
 ![Flutter](https://img.shields.io/badge/Flutter-Intermediate-blue)
 
-- 👨‍💻 I'm currently working **FullStack Developer** at PT Soraya Berjaya Indonesia
+- 👨‍💻 I'm currently working **FullStack Developer** 
 - 📚 I’m currently learning **Dart**, **Flutter** and **Node JS**
 
 ![Muhaziz28's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Muhaziz28&show_icons=true&theme=radical)
