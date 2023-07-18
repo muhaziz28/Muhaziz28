@@ -10,4 +10,4 @@
 - 👨‍💻 I'm currently working **FullStack Developer** 
 - 📚 I’m currently learning **Dart**, **Flutter** and **Node JS**
 
-#![Muhaziz28's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Muhaziz28&show_icons=true&theme=radical)
+![Muhaziz28's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Muhaziz28&show_icons=true&theme=radical)
