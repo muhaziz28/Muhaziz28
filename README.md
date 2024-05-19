@@ -4,6 +4,7 @@
 ![PHP](https://img.shields.io/badge/PHP-Intermediate-informational)
 ![Dart](https://img.shields.io/badge/Dart-Intermediate-blue)
 ![Flutter](https://img.shields.io/badge/Flutter-Intermediate-blue)
+![Go](https://img.shields.io/badge/Go-Intermediate-blue)
 
 - 👨‍💻 I'm currently working **Backend Developer &Mobile** 
 - 📚 I’m currently learning **Node JS**, **Dart**, **Flutter**,and **Go**
