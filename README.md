@@ -6,7 +6,7 @@ I'm a passionate software developer who loves creating innovative solutions and 
 - 🔭 I’m currently working on a personal project involving AI and machine learning.
 - 🤔 I’m looking for help with improving my knowledge in AI algorithms.
 - 💬 Ask me about web development, JavaScript, Python, and AI.
-- 📫 How to reach me: muhaziz28@example.com
+- 📫 How to reach me: muhammadhaikalaziz28@gmail.com
 - ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
 
 ## 🛠️ Technologies & Tools
