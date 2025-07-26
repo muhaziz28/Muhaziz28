@@ -13,10 +13,6 @@ I'm a passionate software developer who loves creating innovative solutions and 
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-## 📈 GitHub Stats
-
-![Muhaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhaziz28&show_icons=true&theme=radical)
-
 ## 📫 Connect with me
 
 - LinkedIn: [Muhaziz](https://www.linkedin.com/in/muhammad-haikal-aziz-72ab64195)
