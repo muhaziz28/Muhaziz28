@@ -10,7 +10,6 @@ I'm a passionate software developer who loves building innovative solutions and 
 ![GitHub followers](https://img.shields.io/github/followers/muhaziz28?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/muhaziz28?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=muhaziz28&style=flat-square)
-![Top Language](https://img.shields.io/github/languages/top/muhaziz28/quizlab?color=blue)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord)
 
 ---
