@@ -10,7 +10,6 @@ I'm a passionate software developer who loves building innovative solutions and 
 ![GitHub followers](https://img.shields.io/github/followers/muhaziz28?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/muhaziz28?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=muhaziz28&style=flat-square)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord)
 
 ---
 
@@ -31,7 +30,7 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 - [LinkedIn](https://www.linkedin.com/in/muhammad-haikal-aziz-72ab64195)
 - Email: muhammadhaikalaziz28@gmail.com
-- Discord: [`_kaaalz`](https://discordapp.com/users/1190823269117476924) ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord)
+- Discord: [`_kaaalz`](https://discordapp.com/users/1190823269117476924)
 
 ---
 
