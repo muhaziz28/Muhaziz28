@@ -17,7 +17,6 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
