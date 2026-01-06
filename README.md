@@ -34,8 +34,4 @@ I'm a passionate software developer who loves building innovative solutions and 
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
-
 Thanks for stopping by! Have a great day! 😄
